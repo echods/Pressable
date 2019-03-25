@@ -1,0 +1,17 @@
+{
+    "name": "echods/pressable",
+    "description": "Pressable api integration",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^7.1.3"
+    },
+    "authors": [
+        {
+            "name": "Isaac Castillo",
+            "email": "isaac@echods.com",
+            "homepage": "https://echods.com"
+        }
+    ],
+    "require": {}
+}
