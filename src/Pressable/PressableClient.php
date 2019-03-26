@@ -1,6 +1,6 @@
 <?php
 
-namespace Echods\Pressable;
+namespace Pressable;
 
 class PressableClient {
 
