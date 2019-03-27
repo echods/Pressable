@@ -14,5 +14,15 @@
             "homepage": "https://echods.com"
         }
     ],
-    "require": {}
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/echods/Pressable"
+        }
+    ],
+     "autoload": {
+        "psr-4": {
+            "Echods\\Pressable\\": "src/Pressable"
+        }
+    },
 }
